@@ -1,0 +1,25 @@
+*´{
+    padding: 100%;
+    margin: 0%;
+}
+body {
+    background-image: url('img/duoc.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: Arial, sans-serif; /* Cambiar el estilo de fuente si es necesario */
+    color: white; /* Cambia el color del texto */
+}
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
